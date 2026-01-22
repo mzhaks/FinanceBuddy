@@ -9,8 +9,8 @@ Follow the steps **exactly in order**.
 ## Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone (https://github.com/mzhaks/FinanceBuddy.git)
+cd FinanceBuddy
 ```
 
 ---
