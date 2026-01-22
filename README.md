@@ -9,7 +9,7 @@ Follow the steps **exactly in order**.
 ## Clone the Repository
 
 ```bash
-git clone (https://github.com/mzhaks/FinanceBuddy.git)
+git clone https://github.com/mzhaks/FinanceBuddy.git
 cd FinanceBuddy
 ```
 
