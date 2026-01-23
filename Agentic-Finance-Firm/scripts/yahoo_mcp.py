@@ -1,13 +1,5 @@
 """Yahoo Finance MCP module with LangChain integration."""
 
-######## MCP SETUP ###############
-# MCP GITHUB
-# https://github.com/laxmimerit/MCP-Mastery-with-Claude-and-Langchain
-# https://github.com/laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama
-
-# https://github.com/langchain-ai/langchain-mcp-adapters
-# https://github.com/laxmimerit/yahoo-finance-mcp-server
-
 import warnings
 
 warnings.filterwarnings("ignore")
