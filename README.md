@@ -33,20 +33,15 @@ QDRANT_API_KEY="add_api_key"
 
 ---
 
-## Start Qdrant and Backend Services
+## Configure Installation and Start Qdrant in Docker as Backend Services
 
 ```bash
 cd Agentic-Finance-Firm
+uv sync
 docker compose up -d
 ```
 
 ---
-
-## Install Python Dependencies
-
-```bash
-uv add -r ./requirements.txt
-```
 
 ---
 
@@ -64,7 +59,7 @@ Run the notebooks in **this exact order**:
 
 ---
 
-## Start the Agentic System
+## Start the Agentic System server
 
 ```bash
 cd ../Agentic-Finance-Firm
