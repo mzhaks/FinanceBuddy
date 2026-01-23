@@ -98,7 +98,7 @@ agent = create_deep_agent(
         subagents=[research_sub_agent],
     )
 
-# user_id = "zeeshan"
+# user_id = "user1"
 # thread_id = "sessions1"
 # agent = get_deep_agent(user_id, thread_id)
 
@@ -109,7 +109,7 @@ agent = create_deep_agent(
 # from scripts.agent_utils import stream_agent_response
 
 # query = "What was Amazon's revenue in Q1 2024?"
-# user_id = "kgptalkie"
+# user_id = "user2"
 # thread_id = "session1"
 
 # agent = get_deep_agent(user_id, thread_id)
